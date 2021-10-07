@@ -1,2 +1,0 @@
-# CobaGit
-Nyobain Git
